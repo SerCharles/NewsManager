@@ -1,0 +1,54 @@
+海豹担心摄影师饿 连续4天给其抓企鹅还试图喂他
+2018-10-07 00:59:12
+新华国际
+
+                                
+	
+	
+		
+			
+				
+					
+					
+					
+					
+					
+					
+					
+					
+						
+							
+							
+							
+							
+							
+						
+						
+					
+					'; var str2 = '您的浏览器暂时无法播放此视频.
+				
+				
+					
+						怕人类摄影师饿，海豹一直给他抓各种企鹅还示范怎么吃
+						（来源：网易视频）
+					
+                                         				
+				
+					
+                                                					
+				
+			
+			';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='您的浏览器暂时无法播放此视频.';NTES(".video-inner .video").attr("style", "background: #000;");}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+		
+		
+国家地理杂志摄影师在南极洲拍摄海豹时遇到一桩奇事。这里的海豹相当凶猛，然而在摄影师近距离拍摄的那几天，有只海豹总担心他饿，连续4天给他抓企鹅，还试图喂给他。这份跨种族的友谊，有点感动，有点心疼……
+
+
+
+
+                
+                                                
+                     本文来源：新华国际  
+                    责任编辑：杨艺_NBJ10647                
+                                								            

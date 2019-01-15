@@ -1,0 +1,54 @@
+良心卡普空！《生化危机2：重制版》中文配音宣传片发布
+2018-11-20 13:46:26
+网易游戏频道
+
+                                    今日，卡普空在微博上公布了一条让中国玩家非常欣喜的消息：官方首次发布了《生化危机2：重制版》中文配音的宣传片。这也就意味着，《生化危机2：重制版》将会全面支持中文语音以及字幕了。本作也是该系列首个支持中文语音的游戏。下面一起来欣赏一下吧。
+	
+	
+		
+			
+				
+					
+					
+					
+					
+					
+					
+					
+					
+						
+							
+							
+							
+							
+							
+						
+						
+					
+					'; var str2 = '您的浏览器暂时无法播放此视频.
+				
+				
+					
+						《生化危机2：重制版》中文配音宣传片
+						（来源：网易）
+					
+                                         				
+				
+					
+                                                					
+				
+			
+			';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='您的浏览器暂时无法播放此视频.';NTES(".video-inner .video").attr("style", "background: #000;");}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+		
+		
+配音演员：Leon/孙晔(SUN YE)Claire/张琦(ZHANG QI)Ada/黄莺(HUANG YING)
+
+
+
+Sherry/詹佳(ZHAN JIA)Leon的配音演员孙晔是《荒野求生》国语版中贝爷的配音；为Claire配音的张琦老师，也曾献声《守望先锋》中的“布丽吉塔”，以及《英雄联盟》中的“辛德拉”和“伊芙琳”。Ada的配音者黄莺曾为《魔兽世界》中的“希尔瓦纳斯”和“吉安娜”，以及《星际争霸2》中的虫族女王“凯瑞甘”配音；而Sherry的配音，詹佳曾为《最终幻想14》中“敏菲利亚”，以及《英雄联盟》中“卡特琳娜”和“安妮”配音。《生化危机2：重制版》在2019年1月25日发售，中文版同步推出。
+                
+                                                
+                     本文来源：网易游戏频道  
+                    责任编辑：彭可心_NBJS6769                
+                                								            
